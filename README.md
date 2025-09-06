@@ -80,14 +80,18 @@ cd FlipLearn---Flashcard-App
     Run the app with:
     flutter run
   
-# Screenshots
+# Screenshots:
 
-
-
-
-
-
-
+* Home Screen:
+      https://github.com/Reneshb24/FlipLearn---Flashcard-App/blob/main/screenshots/home.jpg
+* Flashcard Screen:
+      https://github.com/Reneshb24/FlipLearn---Flashcard-App/blob/main/screenshots/flashcard.jpg
+* Add Flashcard Screen:
+      https://github.com/Reneshb24/FlipLearn---Flashcard-App/blob/main/screenshots/addflashcard.jpg
+* Quiz Screen:
+      https://github.com/Reneshb24/FlipLearn---Flashcard-App/blob/main/screenshots/quiz.jpg
+* Settings Screen:
+      https://github.com/Reneshb24/FlipLearn---Flashcard-App/blob/main/screenshots/Settings.jpg
 
 # Future Improvements
 
