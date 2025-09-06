@@ -18,10 +18,15 @@ FlipLearn is a simple flashcard-based learning application designed to help lear
 * IDE: Android Studio
 * Version Control: Git and GitHub
 * Libraries and Plugins:
+  
     flutter_plugin_android_lifecycle – Android lifecycle support
+  
     shared_preferences – lightweight local persistence
+  
     provider – state management
+  
     google_fonts – UI styling and typography
+  
 
 # Project Structure
 
@@ -36,17 +41,27 @@ To run FlipLearn locally, you need to set up a Flutter development environment. 
 1. Prerequisites
 
 Before starting, make sure the following are installed on your system:
+
 * Git (for cloning the repository)
+  
     Download: https://git-scm.com/downloads
+  
 * Flutter SDK (latest stable release)
+  
     Download: https://docs.flutter.dev/get-started/install
+  
 * Android Studio (for building and running Android apps)
+  
     Download: https://developer.android.com/studio
+  
     Install the following components via Android Studio:
+
     *  Android SDK Platform 35 (or higher)
     * Android SDK Build-Tools
     * Android Emulator (optional, for testing without a physical device)
+      
 * Java Development Kit (JDK 17)
+  
     Recommended: Eclipse Temurin JDK 17
 
 After installation, confirm everything is set up by running:
@@ -58,6 +73,7 @@ This will check if Flutter, Android SDK, Java, and connected devices are properl
 2. Clone the Repository
 
 git clone https://github.com/Reneshb24/FlipLearn---Flashcard-App.git
+
 cd FlipLearn---Flashcard-App
 
 3. Install Dependencies
@@ -69,28 +85,45 @@ cd FlipLearn---Flashcard-App
 4. Run the Application
 
 * Using a Physical Device:
+  
     Connect your Android phone via USB.
+  
     Enable USB debugging from Developer Options.
+  
     Run:
+  
     flutter run
 
 * Using an Emulator:
+  
     Open Android Studio.
+  
     Start an Android Virtual Device (AVD).
+  
     Run the app with:
+  
     flutter run
   
 # Screenshots:
 
 * Home Screen:
+  
       https://github.com/Reneshb24/FlipLearn---Flashcard-App/blob/main/screenshots/home.jpg
+
 * Flashcard Screen:
+  
       https://github.com/Reneshb24/FlipLearn---Flashcard-App/blob/main/screenshots/flashcard.jpg
+  
 * Add Flashcard Screen:
+  
       https://github.com/Reneshb24/FlipLearn---Flashcard-App/blob/main/screenshots/addflashcard.jpg
+  
 * Quiz Screen:
+  
       https://github.com/Reneshb24/FlipLearn---Flashcard-App/blob/main/screenshots/quiz.jpg
+
 * Settings Screen:
+  
       https://github.com/Reneshb24/FlipLearn---Flashcard-App/blob/main/screenshots/Settings.jpg
 
 # Future Improvements
