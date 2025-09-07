@@ -126,9 +126,12 @@ cd FlipLearn---Flashcard-App
   
       https://github.com/Reneshb24/FlipLearn---Flashcard-App/blob/main/screenshots/Settings.jpg
 
-# Future Improvements
+# Future Improvements:
 
 * Cloud storage to allow synchronization across multiple devices.
 * User authentication for secure access and personalized data.
 * Shared topics and categories for collaborative learning.
 * Advanced quiz modes, including true/false and fill-in-the-blank.
+
+# Author
+  RENESH B
